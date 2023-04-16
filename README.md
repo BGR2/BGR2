@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **use my discord**
+- 📫 How to reach me **calvalest@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
