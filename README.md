@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **admin@folroid.ml**
+- 📫 Contact me at **admin@folroid.ml** .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
